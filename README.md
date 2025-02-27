@@ -5,9 +5,6 @@
 <p2><i>Here are some technologies I have been working with:</i></p2>
 <ul>
   <li>SQL</li>
-  <li>HTML</li>
-  <li>Javascript</li>
-  <li>CSS</li>
 </ul>
 
 
