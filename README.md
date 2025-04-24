@@ -4,7 +4,8 @@
 <hr> 
 <p2><i>Here are some technologies I have been working with:</i></p2>
 <ul>
-  <li>SQL</li>
+  <li>SQL
+  Visual Basic for Applications</li>
 </ul>
 
 
