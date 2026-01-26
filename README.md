@@ -6,12 +6,6 @@ I'm a Business Analyst from Washington, D.C., currently pursuing a **Master of S
 
 My background blends creativity with strategy, and I thrive at the intersection of technology, design, and business.
 
----
-
-##  What I'm Working With
-
-- **SQL**  
-- **Visual Basic for Applications (VBA)**  
 
 ---
 
