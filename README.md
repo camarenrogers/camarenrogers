@@ -21,7 +21,7 @@ https://github.com/camarenrogers/dissertation-sql-clustering (SQL, clustering)
 Email me at **camaren.rogers@outlook.com**
 
 
-<h2 align="center">Technologies That I Know </h2>
+<h2 align="center">Technologies That I Know 👩🏾‍💻</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sql,mysql,docker,python,git" />
