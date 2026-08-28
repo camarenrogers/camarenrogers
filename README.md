@@ -18,4 +18,4 @@ https://github.com/camarenrogers/dissertation-sql-clustering (SQL, clustering)
 
 <!--Intro end-->
 
-Feel free to reach me at **camaren.rogers@outlook.com**
+Email me at **camaren.rogers@outlook.com**
