@@ -24,12 +24,12 @@ Email me at **camaren.rogers@outlook.com**
 <h2 align="center">Technologies That I Know 👩🏾‍💻</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,duckdb,docker,python,git" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,docker,python,git" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" height="48" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" height="48" />
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camaren-rogers-data/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
